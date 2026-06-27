@@ -1,17 +1,25 @@
 About Me🎓
 
 I'm currently pursuing a Bachelor of Engineering in Computer Science and Engineering at Sant Longowal Institute of Engineering and Technology (SLIET), Punjab. 
+
 🧠 I have a solid foundation in Data Structures & Algorithms, full-stack web development, and problem-solving. 
+
 🌱 I thrive on continuous learning and innovation. Alongside my core coursework, I spend my time exploring modern software development, cyber security, and aesthetic digital design.  
+
 🏆 Proud Moment: I secured 1st Position in a College-Level Pen-Paper Quiz Competition at SLIET in 2023! 
+
 🤝 I'm highly active in my campus community, having held leadership and management roles in events like Madhuram, National Science Week, and the SLIET Food Fest.  
 
 🛠️ Technical Skills
 
 Programming Languages: C++, Java, Python, HTML, CSS, JavaScript 
+
 Frontend Development: Tailwind CSS, Bootstrap, React.js 
+
 Backend Development: Node.js, Express.js 
+
 Databases & Data Analytics: MySQL, Power BI, DAX, Excel  
+
 Tools & OS: Git, VS Code, GitHub, Windows, Linux  
 
 📂 Highlighted Projects🛍️ 
