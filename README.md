@@ -4,7 +4,6 @@ I'm currently pursuing a Bachelor of Engineering in Computer Science and Enginee
 🧠 I have a solid foundation in Data Structures & Algorithms, full-stack web development, and problem-solving. <br>
 🌱 I thrive on continuous learning and innovation. Alongside my core coursework, I spend my time exploring modern software development, cyber security, and aesthetic digital design. <br>
 
-
 ## 🌐 Socials:
 [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@NEHA KUMARI) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nr9361302@gmail.com) 
 
